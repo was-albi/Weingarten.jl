@@ -1,0 +1,13 @@
+name = "Weingarten"
+uuid = "40576d26-69bf-4a95-bf43-4122fc69ed90"
+authors = ["Alberto Colombo"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
